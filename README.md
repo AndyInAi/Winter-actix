@@ -16,5 +16,7 @@ git clone https://github.com/AndyInAi/Winter-actix.git
 cd Winter-actix
 cargo build --release
 
-# starting HTTP server at http://<ip>:8080
+./target/release/Winter-actix
+
+# starting HTTP server at http://localhost:8080
 ```
