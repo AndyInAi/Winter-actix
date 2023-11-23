@@ -11,6 +11,7 @@
     ' > ~/.cargo/config
 )
 
+export DEBIAN_FRONTEND=noninteractive
 apt install -y cargo
 git clone https://github.com/AndyInAi/Winter-actix.git
 cd Winter-actix
