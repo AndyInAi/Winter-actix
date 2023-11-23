@@ -8,5 +8,3 @@ cargo build --release
 
 # starting HTTP server at http://ip:8080
 ```
-
-
