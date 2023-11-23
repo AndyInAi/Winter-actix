@@ -5,9 +5,9 @@
     echo '
         [source.crates-io]
         replace-with = "mirror"
-
+        
         [source.mirror]
-        registry = "http://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
+        registry = "http://mirrors4.tuna.tsinghua.edu.cn/git/crates.io-index.git"
     ' > ~/.cargo/config
 )
 
